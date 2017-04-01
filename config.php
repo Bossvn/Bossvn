@@ -29,6 +29,6 @@ define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'Bossvn');
 define('DB_PASSWORD', '77499981abc$Bossvn');
-define('DB_DATABASE', 'bossvn_com');
+define('DB_DATABASE', 'Bossvn');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
