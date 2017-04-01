@@ -8,7 +8,7 @@ define('HTTP_IMAGE', 'http://'.HTTP.'/image/');
 // HTTPS
 define('HTTPS_SERVER', 'https://'.HTTP.'/admin/');
 define('HTTPS_IMAGE', 'https://'.HTTP.'/image/');
-//trung add 1 line sau
+// add 1 line 
 define('HTTPS_CATALOG', 'https://'.HTTP.'/');
 
 // DIR	
@@ -27,7 +27,7 @@ define('DIR_UPLOAD', BASE_DIR.'/system/storage/upload/');
 define('DIR_CATALOG', BASE_DIR.'/catalog/');
 	
 
-# / DB chi edit cai nay con lai giu nguyen._trung
+# / DB 
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'Bossvn');
