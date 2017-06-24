@@ -1,3 +1,4 @@
+<?php
 function rus2translit($string) {
     $converter = array(
         'а' => 'a',   'б' => 'b',   'в' => 'v',
@@ -37,3 +38,5 @@ function str2url($str) {
     $str = trim($str, "-");
     return $str;
 }
+
+?>
